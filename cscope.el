@@ -9,6 +9,8 @@
 ;; http://cscope.sourceforge.net for details on cscope and another
 ;; Emacs interface.
 
+;; License: public-domain
+
 ;; This is free software.
 ;; The above line was added to satisfy emacswiki.org; see below for an
 ;; elaboration on what can be done with this source.]
